@@ -59,8 +59,6 @@ nav .close {
   width: 2em;
 }
 
-/* Making the header a flexbox and the svg is making the hamburger menu icon 2em wide and the cursor is
-a pointer. */
 header {
   display: flex;
   justify-content: space-between;
